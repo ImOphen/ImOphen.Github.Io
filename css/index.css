@@ -1,0 +1,14 @@
+.content{
+  padding-top: 150px;
+}
+.text{
+  padding-top : 30px;
+}
+.myimage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:240px;
+    border-radius: 50%;
+  
+}
