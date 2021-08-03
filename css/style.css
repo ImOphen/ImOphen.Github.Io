@@ -1,6 +1,6 @@
 body {
       
-  background-color: #26272A;}
+  background-color: #420e22;}
 
 *{
   padding: 0;
@@ -59,4 +59,9 @@ img {
 .content{
   pointer-events: none;
   user-select: none;
+}
+
+.ophen{ 
+  display: flex;
+  justify-content: center;
 }
