@@ -69,9 +69,8 @@ a{
 .typed-cursor {
     color: #CCDAFD;
     font-size: 30px;
+
 }
 .elliop{
-    position: relative;
-    margin-left: auto;
-    margin-right: auto;
+    text-align: center;
 }
