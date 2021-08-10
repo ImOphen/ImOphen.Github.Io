@@ -42,7 +42,7 @@ html,body{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width:300px;
+    width:240px;
     border-radius: 50%;
     border: 5px solid #CCDAFD;
     margin-bottom: 50px;
@@ -50,6 +50,7 @@ html,body{
 
 .ophen{ 
     margin-top: 50px;
+    margin-bottom: 50px;
     display: flex;
     justify-content: center;
 
