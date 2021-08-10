@@ -29,27 +29,27 @@ html,body{
 .navbar{
     width: 100%;
     background-color: #CCDAFD;
-    font-size: 50px;
+    font-size: 40px;
     text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     color: #420e22;
     font-family: 'Comfortaa', cursive;
 }
 
 #img {
-    margin-top: 5%;
+    margin-top: 50px;
     display: block;
     margin-left: auto;
     margin-right: auto;
     width:300px;
     border-radius: 50%;
     border: 5px solid #CCDAFD;
-    margin-bottom: 5%;
+    margin-bottom: 50px;
 }
 
 .ophen{ 
-    margin-top: 5%;
+    margin-top: 50px;
     display: flex;
     justify-content: center;
 
