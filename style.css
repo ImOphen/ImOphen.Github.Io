@@ -16,7 +16,7 @@ body{
 
 .background{
     width: 100%;
-    height: 1380px;
+    height: 1180px;
     position: absolute;
     z-index: -2;
     background-color: #420e22;
@@ -78,25 +78,3 @@ a{
     text-align: center;
 }
 
-.wave{
-    position: absolute;
-    z-index: -1;
-    width: 100%;
-}
-.wave2{
-    position: absolute;
-    z-index: -1;
-    background-color: #CCDAFD;
-    width: 100%;
-    height: 200px;
-    margin-top: 300px;
-
-}
-
-.divider{
-    margin-top: 210px;
-    text-align: center;
-    font-size: 40px;
-    font-family: 'Comfortaa', cursive;
-    color: #420e22;
-}
